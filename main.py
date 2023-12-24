@@ -1,4 +1,4 @@
-#Step 1 ####MY_CODE
+
 import random
 import hangman_art as ha
 import hangman_words as hw
